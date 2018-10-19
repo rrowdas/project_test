@@ -1,2 +1,2 @@
 # project_test
-Entendendo melhor o git
+Java Development Kit significa Kit de Desenvolvimento Java, e é um conjunto de utilitários que permitem criar sistemas de software para a plataforma Java. É composto por compilador e bibliotecas.
